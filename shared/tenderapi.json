@@ -128,7 +128,14 @@
         "TRANSPARENCY_HEADOFENTITY_DATE_MISSING",
         "TRANSPARENCY_COMMITTEE_DATE_MISSING",
         "TRANSPARENCY_BUYER_LOC_MISSING",
-        "TRANSPARENCY_SIGN_DATE_MISSING"
+        "TRANSPARENCY_SIGN_DATE_MISSING",
+
+        "ADMINISTRATIVE_CENTRALIZED_PROCUREMENT",
+        "ADMINISTRATIVE_COVERED_BY_GPA",
+        "ADMINISTRATIVE_ELECTRONIC_AUCTION",
+        "ADMINISTRATIVE_FRAMEWORK_AGREEMENT",
+        "ADMINISTRATIVE_ENGLISH_AS_FOREIGN_LANGUAGE",
+        "ADMINISTRATIVE_NOTICE_AND_AWARD_DISCREPANCIES"
       ]
     },
     "indicator-status-type": {
@@ -972,7 +979,8 @@
             "ANNOUNCED",
             "AWARDED",
             "CANCELLED",
-            "PREPARED"
+            "PREPARED",
+            "Cancelled"
           ],
           "description": ""
         },
